@@ -1,0 +1,3 @@
+# Clean up Dockerfile
+# Display initial/after conversion file sizes
+# Fix localhost port
